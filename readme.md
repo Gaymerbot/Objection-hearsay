@@ -3,9 +3,9 @@
 Another day in court! You are a high-profile prosecution attourney of Jones, Jones, Jones & Jones, PLLC. There has been a sudden increase in people who think they know the law better than you and have opted to forgo defense council and represent themselves in court, questioning the jurisdiction of the United States. Your role is to navigate nonsensical legal challenges in 1-on-1 legal combat and send these ne're-do-wells to jail! (Keep in mind, in keeping with the theme of the game, all defendants are considered guilty unless their legalese proves otherwise.)
 
 ## Stack
--Javascript 
--CSS
--HTML
+-Javascript<br />
+-CSS<br />
+-HTML<br />
 
 ## Wireframe
 
