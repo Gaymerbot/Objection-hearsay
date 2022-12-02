@@ -10,9 +10,8 @@ Another day in court! You are a high-profile prosecution attourney of Jones, Jon
 ## Wireframe
 
 <!-- link to wireframe-->
-[GoogleDoc](https://drive.google.com/file/d/1_e6nnaOROpv63PtRnpLa7HM7T-70Ed2R/view?usp=sharing)
 
-![Wireframe](Wireframe.png)
+![Wireframe](New%20Wireframe%201.png)
 
 
 
